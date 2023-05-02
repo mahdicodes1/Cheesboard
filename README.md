@@ -11,7 +11,7 @@
 * CSS flex and grid have been used for aligning quarters.
 </br>
 </br>
-![Solution](./assets/images/Solution.png)
+![Solution](./assets/images/Solution.webp)
 
 ## Built With
 
