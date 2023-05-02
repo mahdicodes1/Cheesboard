@@ -1,15 +1,16 @@
 
-## Designing Chessboard
+## Designing Chessboard 
 
-![Banner](./assets/images/Background.png)
-
-
+![Banner](./assets/images/Background.webp)
 
 # Description
 
-In this simple responsive chessboard, a divide-and-conquer algorithm has been used. Chessboard is divided into four big quarters.
-Each big quarter is divided into four small quarters with four squares.
-CSS flex and grid have been used for aligning quarters.   
+* In this simple responsive chessboard, a divide-and-conquer algorithm has been used. 
+* Chessboard is divided into four big quarters.
+* Each big quarter is divided into four small quarters with four squares.
+* CSS flex and grid have been used for aligning quarters.
+</br>
+</br>
 ![Solution](./assets/images/Solution.png)
 
 ## Built With
