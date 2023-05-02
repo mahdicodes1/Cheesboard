@@ -1,0 +1,30 @@
+main {
+  display: flex; 
+  align-items: center; 
+  height: 100vh;
+} 
+.Chessboard {
+  flex: 1;
+  border: 1px solid rgb(0, 47, 255);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.BigQuarters {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.SmallQuarters  {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.Squares {
+  width: 100%;
+  padding-top: 100%;
+  background: #FFD599;
+}
+.Squares:nth-child(1),
+.Squares:nth-child(4) {
+  background: #B16E41;
+}
