@@ -2,6 +2,7 @@
 ## Designing Chessboard 
 
 ![Banner](./assets/images/Background.webp)
+![GitHub all releases](https://img.shields.io/github/downloads/mahdicodes1/Cheesboard/total?style=flat-square)
 
 # Description
 
