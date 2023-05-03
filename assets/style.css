@@ -25,6 +25,11 @@ h1 {
     font-size: 2vw;
   }
 }
+@media (min-width: 1500px) {
+  h1 {
+    font-size: 1.75vw;
+  }
+}
 
 .Chessboard {
   flex: 1;
