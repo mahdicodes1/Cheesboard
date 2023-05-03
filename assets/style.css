@@ -51,3 +51,13 @@ h1 {
 .Squares:nth-child(4) {
   background: #b16e41;
 }
+a {
+  display: block;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #7a3b3b;
+  background-color: #ffffff;
+  text-shadow: #fff 0 -1px 4px, #ff0 0 -2px 4px, #ff8000 0 -10px 20px,
+    red 0 -1px 4px;
+}
